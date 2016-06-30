@@ -4,7 +4,8 @@
   "description": "Node.js code obfuscation module for yandex",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "example": "node examples/example.js"
   },
   "author": "Artur Karimov",
   "license": "ISC",
